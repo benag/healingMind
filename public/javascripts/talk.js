@@ -44,6 +44,6 @@ var myGroup = [
     // }
 ];
 
-artyom.say("shalom hava ma nishma");
+artyom.say("shalom hava ma nishma nifgashim mahar?");
 
 artyom.addCommands(myGroup);
