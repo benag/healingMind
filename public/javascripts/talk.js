@@ -43,7 +43,6 @@ var myGroup = [
     //     }
     // }
 ];
-
-artyom.say("shalom hava ma nishma nifgashim mahar?");
-
 artyom.addCommands(myGroup);
+responsiveVoice.speak("shalom hava ma nishma nifgashim mahar?");
+//artyom.say("shalom hava ma nishma nifgashim mahar?");
